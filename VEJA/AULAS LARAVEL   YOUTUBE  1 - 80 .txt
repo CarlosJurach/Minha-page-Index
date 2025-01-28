@@ -1,0 +1,357 @@
+https://www.google.com/search?q=Laravel+php&sca_esv=564194868&hl=pt-BR&sxsrf=AB5stBg_TGwxyiMXrDw_LncnF9FVCh4_5g%3A1694374375207&source=hp&ei=5xn-ZPqjCsn-5OUPjaS3mA4&iflsig=AD69kcEAAAAAZP4n99pR20vXup2UMhLnVD4yB_XhMWdn&ved=0ahUKEwi6s_615KCBAxVJP7kGHQ3SDeMQ4dUDCAk&uact=5&oq=Laravel+php&gs_lp=Egdnd3Mtd2l6IgtMYXJhdmVsIHBocDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIzTtQAFihN3AAeACQAQCYAacBoAHuBKoBAzAuNbgBA8gBAPgBAvgBAcICChAAGIoFGLEDGEPCAgcQABiKBRhD&sclient=gws-wiz#fpstate=ive&vld=cid:4790dd5d,vid:SnOlhaJTMTA,st:0
+https://youtu.be/iHlbDtHDAYM?si=1hcceB9xzTL47yIb
+
+composer create-project laravel/laravel LARAESTRAN
+composer update
+php artisan migrate:fresh
+
+php artisan serve
+php artisan make:migration create_event_user_table
+ 
+
+composer create-project laravel/laravel example-app
+
+php artisan serve
+localhost
+http://localhost/phpmyadmin/
+
+Laravel v11.2.0 (PHP v8.2.12)
+Laravel v11.26.0 (PHP v8.2.12) 
+composer update
+Na troca de versões, usar "composer update".
+
+
+composer create-project laravel/laravel cursolaravel
+
+composer update
+composer require darryldecode/cart
+composer require doctrine/dbal
+
+php artisan migrate:fresh
+php artisan DB:seed
+
+php artisan storage:link   Atalho para funcionar as fotos Public
+
+
+
+http://cursolaravel.test/
+
+aula 05
+https://youtu.be/3HKsp5cjqus?si=y6cdXbkw1j66dUnl
+06
+https://youtu.be/RPUmwrlxUw0?si=tq2Gpe0AU0LpPKY3
+
+Curso de Laravel - #08 Introdução as Rotas
+https://youtu.be/RPUmwrlxUw0?si=VqmCgxwgPprBWxV1
+
+Curso de Laravel - #09 Rotas Any e Match
+https://youtu.be/A9UE58vxqNg?si=Tf1uKVZ_k6zDY84Q
+
+Curso de Laravel - #10 Passagem de Parâmetros
+https://youtu.be/-AzmobPrYpo?si=d70rPTo-yLY6UJOF
+
+Curso de Laravel - #11 Redirect e View
+https://youtu.be/BMjsvHfz-ZE?si=q4l0vM2KpS2erYCQ
+
+Curso de Laravel - #12 Rotas nomeadas
+https://youtu.be/BrMn-BNL-u0?si=2AurG10ZL0sye5ab
+
+Curso de Laravel - #13 Grupo de Rotas
+https://youtu.be/5ULouVtZ9GI?si=IOZdalNiulrhm0ri
+
+Curso de Laravel - #14 Controllers
+https://youtu.be/Co2CL6WKosI?si=s63LTOsAAmDTTE4X
+
+Curso de Laravel - #15 Passando Parâmetros Para o Controller
+https://youtu.be/_90A8o-vV34?si=msx9gxECBlbQy6dE
+
+
+Curso de Laravel - #16 Resource
+https://youtu.be/sae_9qIIdl4?si=7hV601KHbeukJ5NR
+
+Curso de Laravel - #17 Route list, cache e clear
+https://youtu.be/O7P8CFDrguU?si=qgTZtp6opvzQn8Gp
+
+Curso de Laravel - #18 Configurando o Banco de Dados
+https://youtu.be/Re1dE15t9to?si=jGBupPGoHHm3NbcX
+
+Curso de Laravel - #19 Entendendo os Migrations
+https://youtu.be/c5II4tbKhYE?si=NRZcx6FZqRX0bhWt
+
+Curso de Laravel - #20 Criando os Migrations
+https://youtu.be/sfuqKTtCNN8?si=0yUUVzmrqKra31dR
+
+Curso de Laravel - #21 Editando e Excluindo tabelas
+https://youtu.be/lAfg1zNDMQA?si=2k6rnUqMiI3yllYG
+
+Curso de Laravel - #24 Entendendo os Models
+https://youtu.be/7xQSJwy4IRw?si=jC42t4aspa0SZxSl
+
+Curos de Laravel - #25 Criando tabelas Users, Categorias e Produtos
+https://youtu.be/s4x6GEqa3ZQ?si=KSFntK3jmQnFswD-
+
+Curso de Laravel - #26 Seeder
+https://youtu.be/Cx1cjr7uSq4?si=UJRSmYTGFgo_45JA
+
+Curso de Laravel - #27 Factory
+https://youtu.be/X3JsQ8jL1Ko?si=LE-wgoz6wXRc98_h
+
+Curso de Laravel - #28 mfscr
+https://youtu.be/JYVrE38WBCE?si=kecObQgdx-BOl0Ye
+
+Curso de Laravel - #29 Factory Produtos e StrSlug
+https://youtu.be/GOX4uRiR5Fw?si=xsZVdPDwVkhJQpQq
+
+Curso de Laravel - #30 Relacionamentos
+https://youtu.be/BHZUtimDGVs?si=EvsE-t0H_kANRNNQ
+
+Curso de Laravel - #31 Introdução as views
+https://youtu.be/jf8WnaIQHcA?si=aZOuFRqCU2jkR6Mm
+
+Curso de Laravel - #32 Section, Yield e Extends
+https://youtu.be/HPvD7pNc_RM?si=a8mzYueNX0s7Fo_4
+
+Curso de Laravel - #33 Laravel Snippers
+https://youtu.be/Pc2FqBiVmvI?si=gXyc42h2AZa8NHbp
+INSTALAR 2 EXTENSÕES VS CODE - DEIXA MAIS AMIGÁVEL O CODIGO
+
+Curso de Laravel - #34 Comentários e Operador Ternário
+https://youtu.be/kr-HoJ0g51g?si=u053RbsafZyVjsW4
+
+Curso de Laravel - 35 Customizando views de erro
+https://youtu.be/TvGGsumEEI0?si=KHg5awScCyL6Gq3L
+
+Curso de Laravel - #36 Estruturas de controle
+https://youtu.be/TeMkk1HZBhc?si=2e9GG6FSZ0s4xZcV
+
+Curso de Laravel - #37 Estruturas de repetição
+https://youtu.be/PP7sLx8yxK0?si=1ffCqr2n5AEUCZPw
+
+Curso de Laravel - #38 Include e Component
+https://youtu.be/Gjvcun2Zbfg?si=zbzZfy4F6OXZhN1O
+
+Curso de Laravel - #39 Stacks e Push
+https://youtu.be/F1AoWqjksrQ?si=yW54SlubtMC7Mnsr
+
+Curso de Laravel - #40 Viewcache e Viewclear
+https://youtu.be/0Pfz42jz8YI?si=OBHylI7uiyKErSQx
+
+Curso de Laravel - #41 Implementando Materialize CSS
+https://youtu.be/ImXj4q9ZYss?si=pIMeGBMh6mmSmBH-
+
+Curso de Laravel - #42 Listagem de produtos na home
+https://youtu.be/8R-jluuasvM?si=3G0XJlAPTkwQ6aD2
+	Agora é pra valer listando do banco de dados
+
+Curso de Laravel - #43 Paginação de Resultados
+https://youtu.be/WMu1H6i8xyY?si=cmUyxYJcshYGkQ4i
+	php artisan make:controller SiteController
+
+Curso de Laravel - #44 Criando o SiteController
+https://youtu.be/0srynfxJNWg?si=iCFz16Qfd41BMMPv	
+	
+Curso de Laravel - #45 Listagem de único produto
+https://youtu.be/wPPtdfo4uJI?si=fbdi-R3w91FnKArK
+	Criar página para exibir os detalhes dos produtos
+
+Curso de Laravel - #46 OneToMany Inverse  belongsTo
+https://youtu.be/vY_DeqXEDmc?si=9gvH8zacoNF3EKmG
+
+Curso de Laravel - #47 Categorias dinâmicas com viewShare
+https://youtu.be/KdcAbs2-RL8?si=mTAUwmZX_DoEhxkY
+
+Curso de Laravel - #48 Listar produtos de uma categoria
+https://youtu.be/U8ljbLN7wyM?si=MeMpbZHicYyu-KLz
+
+Curso de Laravel - #49 Mostrar nome da categoria e preço numberFormat
+https://youtu.be/ZXu9FGd6-Xc?si=1yN2aGqbg5PHvBLI
+
+Curso de Laravel - #50 Carrinho de compras com darryldecode/cart
+https://youtu.be/a-Jyrqki7Q8?si=ZCJ7fts3S3h5MupZ
+	composer self-update
+	composer require darryldecode/cart
+
+	php artisan make:controller CarrinhoController
+	C:\laragon\www\cursolaravel\app/Http/Controllers/CarrinhoController.php
+
+Curso de Laravel - #51 Adicionando itens no carrinho
+https://youtu.be/usA5cneQkSQ?si=P2gRfA2GYmSKKQxo
+
+Curso de Laravel - #52 Estilizando carrinho e exibindo itens
+https://youtu.be/oXF1AG_XjIU?si=u_klJYEKKnqC2XD3
+
+Curso de Laravel - #53 RedirectWith
+https://youtu.be/wr5X_xAZ_IY?si=QEmPOKvDU-1YcJLQ
+
+Curso de Laravel - #54 Removendo itens do carrinho
+https://youtu.be/WqgNMTGNbL0?si=i8YxHUjXGdpQZDoO
+
+Curso de Laravel - #55 Atualizando itens do carrinho
+https://youtu.be/d8zR7t060i0?si=Nhie_icxJQ7lnHxn
+
+Curso de Laravel #56 Limpando carrinho
+https://youtu.be/lzr4ibTHCao?si=7fy9YUPcnvZ3fL7R
+
+Curso de Laravel - #57 Ajustes finais no carrinho de compras
+https://youtu.be/yyxp7fVKqeg?si=Ynrd5P6FEZo1_ou_
+
+Curso de Laravel - #58 Autenticação simples
+https://youtu.be/a4nwm3_lWJY?si=61JEnAs7yvaLquiM
+	Login manual simples
+	php artisan make:controller LoginController
+	
+Curso de Laravel - #59 Validações
+https://youtu.be/6zczXwHjMgc?si=AZufEtKyJsmQIgPO
+
+Curso de Laravel - #60 Redirecionando para o dashboard
+https://youtu.be/fIj1rEMU0HM?si=BWlA-gGOR-iDiqtn
+	php artisan make:controller DashboardController
+	
+Curso de Laravel - #61 Exibindo dados do usuário logado
+https://youtu.be/P810G4GOvYk?si=pawa1cesBvl31erD
+
+Curso de Laravel - #62 Logout
+https://youtu.be/bfz1OGBg7ig?si=zTtDwxe_l7BU_l8W
+
+Curso de Laravel - #63 Middlewares
+https://youtu.be/OuwfeqmA0yQ?si=aK0yZYsjMur1hLWu
+
+Curso de Laravel - #64 Criando os middlewares
+https://youtu.be/08RXpgrsuEk?si=GhJKN2WiXpDJMiCy
+
+C:\laragon\www\cursolaravel
+  php artisan make:middleware CheckEmail
+
+   INFO  Middleware [C:\laragon\www\cursolaravel\app/Http/Middleware/CheckEmail.php] created successfully.
+
+
+Curso de Laravel - #65 Register
+https://youtu.be/fPeb3DDOhRg?si=piMe0BTzL1V1QFqJ
+
+C:\laragon\www\cursolaravel
+  php artisan make:controller UserController -r
+
+   INFO  Controller [C:\laragon\www\cursolaravel\app/Http/Controllers/UserController.php] created successfully.
+
+VERIFIQUE O ARQUIVO Model User.php e corija lasttName  para lastName.
+protected $fillable = [
+        'firstName',
+        'lasttName',
+        'email',
+        'password',
+    ];
+
+Curso de Laravel - #66 Remember
+https://youtu.be/ar1I3chGy7M?si=_KeGfMjAAS2z4V6N
+
+Tabela users vai salvar o remember_token
+
+Curso de Laravel - #67 Autorização com Gates
+https://youtu.be/YinI4HpVvsw?si=55Ik_u90IpoTcHVh
+
+403.blade.php
+Erro 403 personalizado! Ação não Autorizada!
+
+Curso de Laravel - #68 Autorização com Policies
+https://youtu.be/1okUsq9ynYs?si=ZTA5UMrn4UQf_6Sp
+
+C:\laragon\www\cursolaravel
+  php artisan make:policy ProdutoPolicy
+
+   INFO  Policy [C:\laragon\www\cursolaravel\app/Policies/ProdutoPolicy.php] created successfully.
+
+Curso de Laravel - #69 Restringindo recurso na view com Can e Cannot
+https://youtu.be/msG-0BiiHLA?si=SK8pPq-bLRmGDXos
+
+Curso de Laravel - #70 Restrigindo acesso com Allows e Denies, Can e Cannot
+https://youtu.be/HBq5qhRAAAo?si=Tc5ezbAFiv562SC0
+
+Curso de Laravel - #71 Dashboard com Materialize CSS e ChartJS
+https://youtu.be/txIy60LeRnE?si=mTGbxGMm8GWNC6U_
+
+
+Curso de Laravel - #72 Gráficos com dados dinâmicos
+https://youtu.be/jVq6o1JKzEE?si=W3pG6IHRila2suMe
+
+label: [{!! $userLabel !!}],
+
+dd($userLabel);
+"'Comparativo de cadastros de usuários'"
+
+dd($userAno);
+"2021,2022,2023"
+
+dd($userTotal);
+"2,1,1"
+
+Curso de Laravel - #73 hasMany
+https://youtu.be/JzpvdfZuPpY?si=4-djTsYsLey2jAgn
+
+
+Curso de Laravel - #74 Página de produtos
+https://youtu.be/twhRq1qRY5A?si=o7OSke-2d-77cN4M
+
+
+Curso de Laravel - #75 Listagem de produtos
+https://youtu.be/jKoKUwyNooI?si=rQ6wT1hetN8oMcPb
+
+Curso de Laravel - #76 Paginação de produtos
+https://youtu.be/MF_ce0I19Uo?si=HDWoyqf6YeTMHWHU
+
+
+Curso de Laravel - #77 Modal para criação e exclusão de produto
+https://youtu.be/aK6ANHLFRv0?si=63gxR3ez7c2wJhUQ
+
+http://cursolaravel.test/register
+<form action="{{ route('users.store') }}" method="POST">
+not defined.
+
+Curso de Laravel - #78 Mensagem de retorno
+https://youtu.be/VnJe5wJFIB8?si=_B2Lf96Czd8EAkEJ
+
+
+Curso de Laravel - #79 Modal de cadastro
+https://youtu.be/VcN9uBzx7Fg?si=HAwKytUn_LaViETK
+
+
+
+
+Curso de Laravel - #80 Cadastro com upload de imagem
+https://youtu.be/iueE5xL_9Kc?si=LzsnOkQUrDC884W3
+.env    FILESYSTEM_DISK=public
+
+ php artisan storage:link
+
+ INFO  The [C:\laragon\www\cursolaravel\public\storage] link has been connected to [C:\laragon\www\cursolaravel\storage\app/public].
+   
+
+
+
+
+
+=== resolvido
+você deve criar um link simbólico de public/storage para storage/app/public
+
+C:\laragon\www\cursolaravel\public\storage\produtos - deletar esse
+C:\laragon\www\cursolaravel\storage\app\public\produtos
+
+C:\laragon\www\cursolaravel
+? php artisan storage:link
+
+   INFO  The [C:\laragon\www\cursolaravel\public\storage] link has been connected to [C:\laragon\www\cursolaravel\storage\app/public].
+   
+===
+
+
+=== filesystems.php
+'public' => [
+            'driver' => 'local',
+            'root' => storage_path('app/public'),
+            'url' => env('APP_URL').'/storage',
+            'visibility' => 'public',
+            'throw' => false,
+        ],
+===
+
+
+
